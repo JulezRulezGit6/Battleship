@@ -1,0 +1,26 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    /**
+     Get list of public fields the object declares (inherited fields should be skipped).
+     */
+    class FieldGetter {
+
+        public String[] getPublicFields(Object object) {
+            // Add implementation here
+        }
+
+    }
+  learner_created: false
+- name: src/Invocation.java
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/2884
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/2884">JetBrains
+    Academy</a></html>
+  time: Fri, 20 Nov 2020 21:26:41 UTC
+record: -1

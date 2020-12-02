@@ -1,0 +1,28 @@
+content:
+- Throw an IOException
+- Throw an unchecked exception
+- Throw a checked exception
+- Convert to bytes
+- Reverse input text
+- Count words
+- Retrieve class name
+- Getting Superclass
+- Find the Method
+- List private fields
+- List public fields
+- Field value
+- Overloading methods
+- Print
+- Phone
+- Time
+- Movie
+- Fix the non-compiled hierarchy
+- Employees
+- Saying animals
+- Shapes area
+- Publications
+- Find mistake
+- Publication and its subclasses
+- IntBinaryOperation
+- Users and WebSites
+- Shape hierarchy

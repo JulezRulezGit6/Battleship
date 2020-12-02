@@ -1,0 +1,43 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    import java.io.IOException;
+
+    public class Main {
+
+        // change this method
+        public static void method() {
+
+        }
+
+        /* Do not change code below */
+        public static void main(String[] args) {
+            try {
+                method();
+            } catch (Exception e) {
+                System.out.println(e.getClass());
+            }
+        }
+    }
+  learner_created: false
+- name: src/file.TXT
+  visible: true
+  learner_created: true
+- name: src/Streaming.java
+  visible: true
+  learner_created: true
+- name: src/Student.java
+  visible: true
+  learner_created: true
+- name: src/TestingReflection.java
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/2835
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/2835">JetBrains
+    Academy</a></html>
+  time: Tue, 17 Nov 2020 05:54:22 UTC
+record: -1
